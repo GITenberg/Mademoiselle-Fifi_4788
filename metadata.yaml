@@ -1,0 +1,28 @@
+_repo: Mademoiselle-Fifi_4788
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into English'
+tableOfContents: Mademoiselle Fifi -- Boule de Suif.
+title: Mademoiselle Fifi
+url: http://www.gutenberg.org/ebooks/4788
